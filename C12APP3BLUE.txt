@@ -3,7 +3,7 @@
     "adNetwork": "admob",
     "ads": "enable",
     
-    "admobInterstitial": "ca-app-pub-7757069622252358~9632440838",
+    "admobInterstitial": "ca-app-pub-7757069622252358/2075303453",
     "admobAppOpen": "ca-app-pub-7757069622252358/9762221786",
     "admobRewarded": "ca-app-pub-7757069622252358/3223743916",
 
