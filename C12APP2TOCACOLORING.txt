@@ -4,7 +4,7 @@
     "adNetwork": "admob",
     "testads": "false",
 
-    "suspended": "no",
+    "suspended": "yes",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Cnsle12/refs/heads/main/Screenshot%202026-08-01%20142107.png",
     "suspended_link": "https://play.google.com/store/apps/details?id=com.maryamber.tocacoloringlife",
     "suspended_message": "A new version is available. Tap the image to update.",
