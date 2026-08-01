@@ -5,9 +5,9 @@
     "testads": "false",
 
     "suspended": "no",
-    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
-    "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.coloringbook",
-    "suspended_message": "We have a new build — tap the image to download it.",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Cnsle12/refs/heads/main/Screenshot%202026-08-01%20142107.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.maryamber.tocacoloringlife",
+    "suspended_message": "A new version is available. Tap the image to update.",
 
     "admobBanner": "ca-app-pub-7757069622252358/4133307382",
     "admobInterstitial": "ca-app-pub-7757069622252358/4729415208",
