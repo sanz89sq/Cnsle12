@@ -1,0 +1,26 @@
+{
+  "AdsController": {
+    "ads": "enable",
+    "adNetwork": "admob",
+    "testads": "false",
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.dandypixel.coloringbook",
+    "suspended_message": "We have a new build — tap the image to download it.",
+
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+
+    "fanInterstitial": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
+    "fanRewarded": "YOUR_META_REWARDED_PLACEMENT_ID",
+    "fanNative": "YOUR_META_NATIVE_PLACEMENT_ID",
+
+    "applovinInterstitial": "",
+    "applovinAppOpen": "",
+    "applovinRewarded": "YOUR_APPLOVIN_REWARDED_AD_UNIT_ID",
+    "applovinNative": ""
+  }
+}
