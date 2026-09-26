@@ -4,9 +4,9 @@
     "ads": "enable",
     "shop": false,
     
-    "admobInterstitial": "ca-app-pub-7757069622252358/3006581446",
-    "admobAppOpen": "ca-app-pub-7757069622252358/6834145811",
-    "admobRewarded": "ca-app-pub-7757069622252358/5305441723",
+    "admobInterstitial": "ca-app-pub-7757069622252358/1858581920",
+    "admobAppOpen": "ca-app-pub-7757069622252358/3634698026",
+    "admobRewarded": "ca-app-pub-7757069622252358/5913377005",
 
 
     "applovinInterstitial": "a59b5ad0944a47af",
@@ -18,7 +18,7 @@
 
     "unityGameId": "6148642",
     "unityInterstitial": "Interstitial_Android",
-    "testMode": true,
-    "reviewActive": false
+    "testMode": false,
+    "reviewActive": true
   }
 }
