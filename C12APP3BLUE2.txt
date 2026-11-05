@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "unity",
     "ads": "enable",
     
     "admobInterstitial": "ca-app-pub-7757069622252358/2075303453",
@@ -15,9 +15,9 @@
     "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/shop?ref=account-nav-dropdown&collections=4580071",
     "teepublicLink": "https://www.teepublic.com/user/toonsworld/albums/538289-bluey",
 
-    "unityGameId": "6148642",
+    "unityGameId": "800425475",
     "unityInterstitial": "Interstitial_Android",
     "testMode": false,
-    "reviewActive": true
+    "reviewActive": false
   }
 }
