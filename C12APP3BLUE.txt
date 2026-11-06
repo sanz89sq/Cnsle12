@@ -1,7 +1,7 @@
 {
   "AdsController": {
-    "adNetwork": "unity",
-    "ads": "enable",
+    "adNetwork": "admob",
+    "ads": "disable",
     
     "admobInterstitial": "ca-app-pub-7757069622252358/2075303453",
     "admobAppOpen": "ca-app-pub-7757069622252358/9762221786",
