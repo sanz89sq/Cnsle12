@@ -41,9 +41,9 @@
     "in_rooms": true,
     "in_creator": true,
     "apps": [
-      { "image": "https://play-lh.googleusercontent.com/6guwOOYvEFQQ8hIyeueiBFfJ6Vrtnyi7s8cI8rglwTooEufHFvOTYnBsZiYDMm0d8qM_OtYw5UmNNhwxb3cZHQ=w240-h480-rw", "url": "https://play.google.com/store/apps/details?id=com.maryamber.tocacoloringlife" },
-      { "image": "https://play-lh.googleusercontent.com/VKEZF-LTHOh2iIhV0q1tu9CD4H9U-C1IgMWVi-5OQ_ABoLyUkgxmPf-CjynGr4W5fZSkqd7EWVtArnSlRO_tpwY=w240-h480-rw", "url": "https://play.google.com/store/apps/details?id=com.maryamber.keepyuppytoca" },
-      { "image": "https://play-lh.googleusercontent.com/ppPtZoZ6M8cQTcWHQ6WQozVvdDsAK2qd9OKrUTTEKnjpEZnRaHBYR_wtXDRorl_OAdkT_KpYTQLkGOybH2B6qQ=w240-h480-rw", "url": "https://play.google.com/store/apps/details?id=com.maryamber.tocafakecall" }
+      { "image": "https://raw.githubusercontent.com/sanz89sq/Cnsle12/refs/heads/main/playstore-icon.png", "url": "https://play.google.com/store/apps/details?id=com.maryamber.tocacoloringlife" },
+      { "image": "https://raw.githubusercontent.com/sanz89sq/Cnsle12/refs/heads/main/tocaa.jpg", "url": "https://play.google.com/store/apps/details?id=com.maryamber.keepyuppytoca" },
+      { "image": "https://raw.githubusercontent.com/sanz89sq/Cnsle12/refs/heads/main/playstore-icons.png", "url": "https://play.google.com/store/apps/details?id=com.maryamber.tocafakecall" }
     ]
   },
 
