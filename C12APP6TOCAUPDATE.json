@@ -17,7 +17,7 @@
 
   "paywall": {
     "first_session": 1,
-    "show_on_launch": true,
+    "show_on_launch": false,
     "show_every_sessions": 1,
     "close_button_delay_sec": 2,
     "close_button_scale": 1.0
@@ -25,7 +25,7 @@
 
   "rate_us_after_actions": 3,
 
-  "start_room": "beauty_salon",
+  "start_room": "treehouse",
 
   "season": {
     "christmas": "auto",
@@ -35,7 +35,7 @@
 
   "cross_promo": {
     "enabled": true,
-    "rotate_sec": 8,
+    "rotate_sec": 10,
     "hide_for_subscribers": true,
     "on_map": true,
     "in_rooms": true,
